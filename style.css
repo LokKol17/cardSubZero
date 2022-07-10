@@ -19,7 +19,7 @@ body {
     background: linear-gradient(72deg, #5685cb, #394260);
 }
 .card-2 {
-    background: linear-gradient(-72deg, #8B742E, #605b39);
+    background: linear-gradient(-72deg, #b59228, #605b39);
 }
 .card-1:hover, .card-2:hover {
     width: 700px;
