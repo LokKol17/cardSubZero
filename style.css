@@ -9,7 +9,7 @@ body {
     display: flex;
     flex-flow: row nowrap;
     justify-content: space-between;
-    background-color: #4080ff;
+    background: linear-gradient(72deg, #5685cb, #394260);
     width: 300px;
     height: 400px;
     border-radius: 10px;
@@ -17,6 +17,7 @@ body {
 }
 .card:hover {
     width: 700px;
+    background: linear-gradient(72deg, #5685cb, #394260);
     transition: all .7s;
 }
 .card__conteudo {
