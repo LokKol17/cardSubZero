@@ -56,6 +56,9 @@ body {
 }
 
 @media screen and (max-width: 786px) {
+    body {
+        flex-flow: column;
+    }
     .card-1, .card-2 {
         flex-flow: column nowrap;
         justify-content: space-around;
